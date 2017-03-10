@@ -250,7 +250,7 @@ if '4numeroDOdocumentoDeIdentidade' in itensRGouEquivalente:
     wait(1)
     funcao12()
 
-if '8NomeNoDocumentoDeIdentidade' in itensRGouEquivalente:
+if '4NomeNoDocumentoDeIdentidade' in itensRGouEquivalente:
     click("1489146648091.png")
     wait(1)
     funcao13()
