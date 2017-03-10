@@ -28,7 +28,7 @@ def funcao1():
     ControlCommmands('c')
     myString = Env.getClipboard().strip()
     myString = ''.join(e for e in myString if e.isalnum())
-    print (myString)
+    # print (myString)
     if '2003' in myString:
         EscreverOqueFoiEncontrado('Numero da agencia')
     elif '20898903' not in myString:
@@ -39,7 +39,7 @@ def funcao2():
     dragDrop(Location(434, 122), Location(1224, 738))
     ControlCommmands('c')
     myString = Env.getClipboard().strip()
-    print (myString)
+    # print (myString)
     if 'Michael' in myString:
         EscreverOqueFoiEncontrado('Operacao')
     elif 'Michael5s4df54' not in myString:
@@ -50,7 +50,7 @@ def funcao3():
     dragDrop(Location(434, 122), Location(1224, 738))
     ControlCommmands('c')
     myString = Env.getClipboard().strip()
-    print (myString)
+    # print (myString)
     if 'purchase' in myString:
         EscreverOqueFoiEncontrado('Numero da conta')
     elif 'purchase1516515' not in myString:
@@ -61,7 +61,7 @@ def funcao4():
     dragDrop(Location(434, 122), Location(1224, 738))
     ControlCommmands('c')
     myString = Env.getClipboard().strip()
-    print (myString)
+    # print (myString)
     if 'luck' in myString:
         EscreverOqueFoiEncontrado('Nome do titular em FAA')
     elif 'luck649841' not in myString:
@@ -72,7 +72,7 @@ def funcao5():
     dragDrop(Location(434, 122), Location(1224, 738))
     ControlCommmands('c')
     myString = Env.getClipboard().strip()
-    print (myString)
+    # print (myString)
     if 'money' in myString:
         EscreverOqueFoiEncontrado(' CEP do endereco do titular em FAA')
     elif 'money65sad545' not in myString:
@@ -83,7 +83,7 @@ def funcao6():
     dragDrop(Location(434, 122), Location(1224, 738))
     ControlCommmands('c')
     myString = Env.getClipboard().strip()
-    print (myString)
+    # print (myString)
     if 'happening' in myString:
         EscreverOqueFoiEncontrado(' CPF do titular em FAA')
     elif 'happening45466f6' not in myString:
@@ -94,7 +94,7 @@ def funcao7():
     dragDrop(Location(434, 122), Location(1224, 738))
     ControlCommmands('c')
     myString = Env.getClipboard().strip()
-    print (myString)
+    # print (myString)
     if 'equipment' in myString:
         EscreverOqueFoiEncontrado(' Data de Nascimento do titular em FAA')
     elif 'equipment45466f6' not in myString:
@@ -105,7 +105,7 @@ def funcao8():
     dragDrop(Location(434, 122), Location(1224, 738))
     ControlCommmands('c')
     myString = Env.getClipboard().strip()
-    print (myString)
+    # print (myString)
     if 'Danny' in myString:
         EscreverOqueFoiEncontrado(' Rua do endereco do titular em FAA')
     elif 'Danny669871' not in myString:
@@ -116,7 +116,7 @@ def funcao9():
     dragDrop(Location(434, 122), Location(1224, 738))
     ControlCommmands('c')
     myString = Env.getClipboard().strip()
-    print (myString)
+    # print (myString)
     if 'internships' in myString:
         EscreverOqueFoiEncontrado(' Rua do endereco do titular em FAA')
     elif 'internships' not in myString:
@@ -128,7 +128,7 @@ def funcao10():
     dragDrop(Location(434, 122), Location(1224, 738))
     ControlCommmands('c')
     myString = Env.getClipboard().strip()
-    print (myString)
+    # print (myString)
     if 'luxury' in myString:
         EscreverOqueFoiEncontrado(' Nome do titular no CPF')
     elif 'luxury456rgre' not in myString:
@@ -139,7 +139,7 @@ def funcao11():
     dragDrop(Location(434, 122), Location(1224, 738))
     ControlCommmands('c')
     myString = Env.getClipboard().strip()
-    print (myString)
+    # print (myString)
     if 'antenna' in myString:
         EscreverOqueFoiEncontrado(' Data de Nascimento do titular na Identidade encontrada')
     elif 'antenna65rgre' not in myString:
@@ -150,7 +150,7 @@ def funcao12():
     dragDrop(Location(434, 122), Location(1224, 738))
     ControlCommmands('c')
     myString = Env.getClipboard().strip()
-    print (myString)
+    # print (myString)
     if 'Copyright' in myString:
         EscreverOqueFoiEncontrado(' Numero DO documento De Identidade no RG ou equivalente')
     elif 'Copyright654894' not in myString:
@@ -161,7 +161,7 @@ def funcao13():
     dragDrop(Location(434, 122), Location(1224, 738))
     ControlCommmands('c')
     myString = Env.getClipboard().strip()
-    print (myString)
+    # print (myString)
     if 'Donkey' in myString:
         EscreverOqueFoiEncontrado(' Nome DO titular no doc de identidade (RG ou equivalente)')
     elif 'Donkey6548941' not in myString:
@@ -172,7 +172,7 @@ def funcao14():
     dragDrop(Location(434, 122), Location(1224, 738))
     ControlCommmands('c')
     myString = Env.getClipboard().strip()
-    print (myString)
+    # print (myString)
     if 'gbayliss' in myString:
         EscreverOqueFoiEncontrado(' Data de Nascimento do titular no RG ou doc equivalente')
     elif 'gbayliss65w44sd' not in myString:
