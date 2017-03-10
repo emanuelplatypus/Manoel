@@ -180,7 +180,7 @@ def funcao14():
 for letter in 'oi':# Para cada letra da palavra 'oi'
     click(Location(1431, 106))
 
-#Para analise da  /////FAA///// => Vai da linha 140 ateh a 180 mais ou menos
+#Para analise da  /////FAA///// => Vai da linha 184 ateh a 224 mais ou menos
 click(Location(149, 159))
 itensFAA = 'agenciacontaoperacaonumerodacontanometitularRUAdoEnderecoNaFAAcepFAACPFnaFAAdataNascimento'
 if '2agencia' in itensFAA:
@@ -223,7 +223,7 @@ if '9RUAdoEnderecoNaFAA' in itensFAA:
     wait(1)
     funcao8()
 
-#Para analise do  /////CPF///// => Vai da linha 158 ateh a linha 168 mais ou menos
+#Para analise do  /////CPF///// => Vai da linha 228 ateh a linha 242 mais ou menos
 click(Location(46, 116))   
 itensCPF = 'numerodoCPFnoCPFNomeNoCPFDataNascNOCPF'
 if '5numerodoCPF' in itensCPF:
@@ -241,8 +241,7 @@ if '7DataNascNOCPF' in itensCPF:
     wait(1)
     funcao11()
 
-
-#Para analise do  /////DOCUMENTO DE IDENTIDADE///// => Vai da linha 197 ateh a linha 207 mais ou menos
+#Para analise do  /////DOCUMENTO DE IDENTIDADE///// => Vai da linha 246 ateh a linha 216 mais ou menos
 click(Location(46, 116))   
 itensRGouEquivalente = 'numeroDOdocumentoDeIdentidadeNomeNoDocumentoDeIdentidadeDataNascNORG'
 if '4numeroDOdocumentoDeIdentidade' in itensRGouEquivalente:
