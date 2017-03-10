@@ -1,4 +1,5 @@
 # Lembrar de tirar as funcoes wait() ou dimunuir seus tempos
+# http://www.ruf.rice.edu/~willr/cb/index.shtml
 Settings.MinSimilarity = 0.9
 
 def ControlCommmands(letra):
