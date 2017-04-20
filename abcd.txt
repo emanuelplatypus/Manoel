@@ -1,6 +1,6 @@
 Escândalos A, B, C e D;
 Polêmicas R, S e T;
-(Lista de) apelidos X, Y e Z0
+(Lista de) apelidos X, Y e Z;
 Vazamentos M, N e O;
 Delacoes premiadas X1, X2, X3 e X4... 
 
