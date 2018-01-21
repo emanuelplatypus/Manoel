@@ -1,4 +1,4 @@
-# Esse programa precisa:
+# Este programa (https://github.com/emanuelplatypus/Manoel/blob/master/FacebookABCD2.jar) precisa:
 
 
 1 Ser salvo numa pasta juntamente com certos arquivos de imagens retiradas do seu Facebook. (Download at https://github.com/emanuelplatypus/Manoel/blob/master/images.zip).
