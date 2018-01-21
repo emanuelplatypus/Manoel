@@ -1,4 +1,4 @@
-# Esse programa precisa de:
+# Esse programa precisa:
 
 
 1 Ser salvo numa pasta juntamente com certos arquivos de imagens retiradas do seu Facebook. (Entre em contato com o autor para saber mais).
