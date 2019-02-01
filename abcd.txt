@@ -1,5 +1,6 @@
 .
 
-Complete a frase para ganhar uma estrelinha:
+Complete a frase para ganhar uma
+estrelinha no seu caderninho da escolinha:
 
 A Damares falou que ...
